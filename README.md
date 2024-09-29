@@ -28,7 +28,3 @@ https://trguilherm.itch.io/bill-the-bunny
 
 - [Guilherme R. | @tuchanski](https://github.com/tuchanski)
 - [Giovanni S. | @romm27](https://github.com/romm27)
-- [Luiz Henrique | @luiz-matoso](https://github.com/luiz-matoso)
-- [Guilherme T. | @guitfg](https://github.com/guitfg)
-
-![App Screenshot](https://i.imgur.com/VvruoYU.png)
