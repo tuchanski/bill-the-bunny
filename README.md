@@ -13,7 +13,7 @@ O jogo está disponível para ser jogado através da plataforma itch.io, via web
 
 https://trguilherm.itch.io/bill-the-bunny
 
-## Comandos
+## Instruções
 
 - Para movimentar o Bill, utilize as teclas direcionais do teclado.
 - Para derrotar os inimigos, basta pular em cima deles.
