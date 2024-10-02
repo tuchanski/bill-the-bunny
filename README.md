@@ -32,3 +32,6 @@ https://trguilherm.itch.io/bill-the-bunny
 
 - [Guilherme R. | @tuchanski](https://github.com/tuchanski)
 - [Giovanni S. | @romm27](https://github.com/romm27)
+
+## Atenção
+Jogo criado sem fins lucrativos. Artes não pertencentes ao [@tuchanski](https://github.com/tuchanski) foram legalmente adquiridas.
