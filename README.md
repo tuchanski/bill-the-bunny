@@ -1,10 +1,7 @@
 
-# Bill the Bunny 🐰
+# Bill the Bunny 🐰🥕
 
 Bill the Bunny é um jogo de plataforma criado para a matéria de "Experiência Criativa: Navegando pela Computação", da PUCPR, fortemente inspirado por clássicos do gênero como Mario e Sonic. Este repositório guarda o código fonte do jogo.
-
-
-
 
 ## A história
 Bill, o coelho, ganhou na loteria e resolveu retirar toda a sua recompensa em cenouras. Contudo, a raposa Pipoca, conhecida por sua inveja e sagacidade decidiu roubar o prêmio do protagonista. Acompanhe a jornada de Bill enquanto ele tenta recuperar o que é seu por direito!
@@ -16,6 +13,13 @@ O jogo está disponível para ser jogado através da plataforma itch.io, via web
 
 https://trguilherm.itch.io/bill-the-bunny
 
+## Comandos
+
+- Para movimentar o Bill, utilize as setas direcionais do teclado.
+- Para derrotar os inimigos, basta pular em cima deles.
+- Para ler as placas, mantenha a tecla *T* pressionada.
+- Tente recuperar o máximo de cenouras possíveis.
+- Caso deseje, pressione *enter* para pausar o jogo - e novamente *enter* para retornar.
 
 ## Ferramentas
 
