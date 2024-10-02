@@ -15,7 +15,7 @@ https://trguilherm.itch.io/bill-the-bunny
 
 ## Comandos
 
-- Para movimentar o Bill, utilize as setas direcionais do teclado.
+- Para movimentar o Bill, utilize as teclas direcionais do teclado.
 - Para derrotar os inimigos, basta pular em cima deles.
 - Para ler as placas, mantenha a tecla *T* pressionada.
 - Tente recuperar o máximo de cenouras possíveis.
