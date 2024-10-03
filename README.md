@@ -27,6 +27,11 @@ https://trguilherm.itch.io/bill-the-bunny
 
 **Arte:** Aseprite
 
+## Gameplay Completa
+
+Assista a gameplay completa no YouTube.
+
+https://youtu.be/bmWUySSTaX0
 
 ## Autores
 
